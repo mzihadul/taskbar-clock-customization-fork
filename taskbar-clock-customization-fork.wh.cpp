@@ -7,7 +7,7 @@
 // @github          https://github.com/mzihadul/taskbar-clock-customization-fork
 // @include         explorer.exe
 // @architecture    x86-64
-// ...
+// @compilerOptions -lwininet -lole32 -loleaut32 -lshlwapi -ldxgi -lpdh -lpowrprof -lversion -lruntimeobject
 // ==/WindhawkMod==
 //
 // This project is a modified version of:
@@ -43,7 +43,7 @@ and colors, and more.
 
 Only Windows 10 64-bit and Windows 11 are supported.
 
-![Screenshot](https://imgur.com/gallery/taskbar-clock-customization-NPSqy2j) \
+![Screenshot](https://raw.githubusercontent.com/mzihadul/taskbar-clock-customization-fork/main/screenshot.png) 
 
 ## Available patterns
 
