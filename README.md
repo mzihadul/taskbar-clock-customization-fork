@@ -4,6 +4,10 @@ A community-maintained fork of **Taskbar Clock Customization** by [m417z](https:
 
 > **Important:** This project is an independent fork. It is not the original `Taskbar Clock Customization` project and is not presented as an official Windhawk or m417z release.
 
+## Preview
+
+![Taskbar Clock Customization](screenshot.png)
+
 ## Original Project
 
 This fork is based on:
